@@ -1,0 +1,7 @@
+Product = input("Enter something your brand will sell:")
+adj = input("Enter an adjective that describes your product:")
+land = input("Enter a land formation:")
+
+print(f"Idea 1: {adj} {Product}")
+print(f"Idea 2: {adj} {land}")
+print(f"Idea 3: {land} {Product}")
